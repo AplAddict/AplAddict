@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**AplAddict/AplAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+Hey! I am a self-taught developer from Chicago currently studying at the University of Illinois in Champaign-Urbana. I know HTML, CSS, JS, Java, C++, and I am learning Kotlin. I love web-development and working on widgets for jailbroken iOS.
 
-Here are some ideas to get you started:
+### Where can you contact me?
+I'm available on all of these platforms
++ Twitter: [
+@AplAddict
+](https://twitter.com/AplAddict)
++ Discord: [Addict#6104](https://discord.com)
++ Email: [mail@isaaczipperstein.com](mailto:mail@isaaczipperstein.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, make sure to check out my website: http://isaaczipperstein.com
+<p>&nbsp;</p>
+
+![HomemadeToast57's GitHub stats](https://github-readme-stats.vercel.app/api?username=AplAddict&show_icons=true&theme=dark…)
